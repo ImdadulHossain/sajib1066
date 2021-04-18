@@ -24,7 +24,6 @@ I love to work with new technologies and playing with Data and AI.🤖
       <img alt="QGIS" height=64px src=" https://camo.githubusercontent.com/c7e86d64944ba0399e328a953ce6ff86aa1fe12c23723bef1b873d8424ed178d/68747470733a2f2f692e696d6775722e636f6d2f7476696b4342352e706e67">
       <br>QGIS
     </td>
-   
     <td align="center">
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
