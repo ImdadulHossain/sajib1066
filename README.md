@@ -21,12 +21,16 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>Python
     </td>
     <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
+    </td>
+    <td align="center">
       <img alt="QGIS" height=64px src="https://images.squarespace-cdn.com/content/v1/589b8f25440243327fa7a23a/1524176901809-UEMB9IHP5L1XIXLIMNNJ/ke17ZwdGBToddI8pDm48kJrv3fvn9mQRhELlnvuRaLB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYe2VkNgeB4ZS391hliPULZE6vcWmFZTy0WdH9N-unWEH3bqxw7fF48mhrq5Ulr0Hg/qgis-logo_anita02.png">
       <br>QGIS
     </td>
     <td align="center">
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-      <br>Django
+      <img alt="ARCGIS" height=64px src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png">
+      <br>ARCGIS
     </td>
     <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
